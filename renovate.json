@@ -1,7 +1,7 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    "semanticScope(package)"
   ],
-  "semanticCommits": true,
-  "semanticScope": "package"
+  "semanticCommits": true
 }
